@@ -1,0 +1,37 @@
+# Exclude the following files or folders from language statistics
+automapper_autofac/Content/* linguist-vendored
+automapper_autofac/Scripts/* linguist-vendored
+
+# Include the following files or folders for language renaming
+automapper_autofac/Models/* linguist-language=CSHARP
+automapper_autofac/Views/* linguist-language=ASP
+automapper_autofac/Controllers/* linguist-language=CSHARP
+automapper_autofac/ViewModel/* linguist-language=CSHARP
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+
+# Image files are treated as binary by default
+*.jpg   binary
+*.png   binary
+*.gif   binary
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
