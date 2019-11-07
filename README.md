@@ -26,9 +26,9 @@ To clone and run this repository you will need [Git](https://git-scm.com/) insta
 
 ```
 # Clone this repository
-$ git clone https://github.com/sumuongit/asp-mvc-automapper-autofac-map-ioc.git
+$ git clone https://github.com/sumuongit/asp-mvc-automapper-autofac-di-pattern.git
 # Go into the repository
-$ cd asp-mvc-automapper-autofac-map-ioc
+$ cd asp-mvc-automapper-autofac-di-pattern
 ```
 
 ## Contributing
@@ -39,4 +39,4 @@ $ cd asp-mvc-automapper-autofac-map-ioc
 * Submit a pull request
 
 ## License
-[MIT License](https://github.com/sumuongit/asp-mvc-automapper-autofac-map-ioc/blob/master/LICENSE)
+[MIT License](https://github.com/sumuongit/asp-mvc-automapper-autofac-di-pattern/blob/master/LICENSE)
