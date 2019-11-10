@@ -10,7 +10,7 @@
 This application depicts how to map viewmodel to model and vice versa; it also shows that how the dependency injection is maintained.
 
 ## Features
-* Mapping between viewmodel and model or vice versa
+* Mapping between model and viewmodel
 * Dependency Injection 
 
 ## Technologies
